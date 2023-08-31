@@ -1,1 +1,1 @@
-Edited readme file being creaed for 0x03-Git
+Edited readme file for 0x01 Shell
